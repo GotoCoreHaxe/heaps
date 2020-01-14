@@ -1,0 +1,17 @@
+{
+  "name": "gotocore-hx-heaps",
+  "url": "https://github.com/GotoCoreHaxe/heaps",
+  "license": "MIT",
+  "tags": [
+  ],
+  "description": "",
+  "version": "0.0.1",
+  "classPath": "src",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {
+    "heaps":"git:https://github.com/HeapsIO/heaps.git"
+  }
+}
